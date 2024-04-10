@@ -56,7 +56,7 @@ rawdbs:
                 - source: api
                   schedule: On trigger
                   contacts:
-                      - name: Patrick Gregg
+                      - name: Patrick Grey
                         email: patrick.gregg1@qa.ey.com
                         role: Admin
                         send-notification: true
