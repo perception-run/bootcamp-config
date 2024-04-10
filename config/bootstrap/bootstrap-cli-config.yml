@@ -45,7 +45,7 @@ bootstrap:
                 idp-source-name: bootcamp-03-prod-uc-001-oee-read
               - cdf-group: cdf:uc001:oee:owner
                 idp-source-id: 660eefb6-3768-4b7a-865f-bfa504eda30c
-                idp-source-name: bootcamp-03-prod-uc-001-oee-owner
+                idp-source-name: bootcamp-03-prod-uc-001-oee-owne
     namespaces:
         - ns-name: src
           description: Source used for data extraction
