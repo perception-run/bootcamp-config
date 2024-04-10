@@ -22,6 +22,8 @@ bootstrap:
               - cdf-group: cdf:all:read
                 idp-source-id: 020ea107-796c-40c8-9ef5-5b37868ffe16
                 idp-source-name: bootcamp-03-test-all-read
+
+
         - cdf-project: cdf-bootcamp-03-prod
           mappings:
               - cdf-group: cdf:root
