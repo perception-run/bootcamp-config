@@ -23,11 +23,11 @@ bootstrap:
                 idp-source-id: 020ea107-796c-40c8-9ef5-5b37868ffe16
                 idp-source-name: bootcamp-03-test-all-read
               - cdf-group: cdf:oee:read
-                idp-source-id: c374ef8a-75e3-4efe-b6bc-22bc195b9765
-                idp-source-name: bootcamp-03-prod-uc-001-oee-read
+                idp-source-id: adb3fa99-97a2-4cb0-a554-0de6efbc1ddf
+                idp-source-name: bootcamp-03-test-uc-001-oee-read
               - cdf-group: cdf:oee:owner
-                idp-source-id: 660eefb6-3768-4b7a-865f-bfa504eda30c
-                idp-source-name: bootcamp-03-prod-uc-001-oee-owner
+                idp-source-id: 88660f4a-e02c-43cf-889f-53cb0cea7283
+                idp-source-name: bootcamp-03-test-uc-001-oee-owner
 
         - cdf-project: cdf-bootcamp-03-prod
           mappings:
@@ -41,11 +41,11 @@ bootstrap:
                 idp-source-id: 2c0a801e-a32f-496e-be22-fe0f84f1c54d
                 idp-source-name: bootcamp-03-prod-all-read
               - cdf-group: cdf:oee:read
-                idp-source-id: adb3fa99-97a2-4cb0-a554-0de6efbc1ddf
-                idp-source-name: bootcamp-03-test-uc-001-oee-read
+                idp-source-id: c374ef8a-75e3-4efe-b6bc-22bc195b9765
+                idp-source-name: bootcamp-03-prod-uc-001-oee-read
               - cdf-group: cdf:oee:owner
-                idp-source-id: 88660f4a-e02c-43cf-889f-53cb0cea7283
-                idp-source-name: bootcamp-03-test-uc-001-oee-owner
+                idp-source-id: 660eefb6-3768-4b7a-865f-bfa504eda30c
+                idp-source-name: bootcamp-03-prod-uc-001-oee-owner
     namespaces:
         - ns-name: src
           description: Source used for data extraction
