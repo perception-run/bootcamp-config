@@ -3,7 +3,7 @@
 externalId: tr-create_asset_hierarchy
 name: create_asset_hierarchy
 query:
-    file: transformation.sql
+    file: bootcamp-config/config/transformations/create_asset_hierarchy/transformation.sql
 destination:
     type: asset_hierarchy
 ignoreNullFields: true
